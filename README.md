@@ -5,7 +5,9 @@ PolicyWave is a civic-tech platform that helps **citizens, policymakers, and exp
 
 Instead of static reports and generalised explanations, PolicyWave uses **AI-driven simulations, role-aware reasoning, and structured outputs** to turn legislation into something people can actually reason about.
 
- **Demo Video:** https://www.youtube.com/watch?v=1conbIvX8VY
+**Demo Video** : 
+[Loom Video](https://www.loom.com/share/c1d65c86ad5746e59773c87deb41e53c)
+
 
 ---
 
